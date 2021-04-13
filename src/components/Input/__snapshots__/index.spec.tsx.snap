@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Placeholder Input must render the component properly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flex": 1,
+      },
+      undefined,
+    ]
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    placeholderTextColor="#000"
+    rejectResponderTermination={true}
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "#000",
+          "borderLeftColor": "transparent",
+          "borderRightColor": "transparent",
+          "borderTopColor": "transparent",
+          "borderWidth": 1,
+          "fontSize": 16,
+        },
+        undefined,
+      ]
+    }
+    underlineColorAndroid="transparent"
+  />
+</View>
+`;
